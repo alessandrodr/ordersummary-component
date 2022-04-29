@@ -12,7 +12,7 @@ https://bespoke-croquembouche-d3499e.netlify.app
 Desktop view:
 
 
-<img src="https://user-images.githubusercontent.com/103607112/165931976-b7ebc847-fb19-4d93-bd8b-c4611848f8d7.png" width="375px" height="auto" title="desktop-view">
+<img src="https://user-images.githubusercontent.com/103607112/165931976-b7ebc847-fb19-4d93-bd8b-c4611848f8d7.png" width="1440px" height="auto" title="desktop-view">
 
 
 Mobile view:
